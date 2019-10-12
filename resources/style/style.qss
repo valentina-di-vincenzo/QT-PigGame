@@ -1,0 +1,45 @@
+QWidget {
+    background-image:url(:/img/img/background.jpg);
+
+}
+
+QProgressBar {        
+    padding: 5px 0px;        
+}
+
+QProgressBar::chunk {        
+    background-color: rgb(142, 145, 253);        
+    border-radius: 5px;
+}   
+
+QPushButton {
+    border: solid #350c9d;
+    border-radius: 4px;
+    padding: 10px;
+    font: 75 17pt Helvetica Neue;
+    font-weight: bold;
+    background: #350c9d;
+    color: white;
+}
+
+QPushButton::hover {    
+    background-color: qlineargradient(x1: .5, y1: 1, x2: .5, y2: 0, stop: 0 #371e92, stop: 0.9 #9fa1f5);
+}
+
+QPushButton#newGame {            
+    border-width: 1px;            
+    background: transparent;            
+    color: #350c9d;            
+}       
+
+QPushButton#newGame::hover {        
+    background: #350c9d;
+    color: white;
+}
+
+
+QLabel {    
+    color: black;
+    background: transparent;
+}                        
+

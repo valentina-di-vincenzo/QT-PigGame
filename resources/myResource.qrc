@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>img/dices/1.png</file>
+        <file>img/dices/2.png</file>
+        <file>img/dices/3.png</file>
+        <file>img/dices/4.png</file>
+        <file>img/dices/5.png</file>
+        <file>img/dices/6.png</file>
+        <file>img/img/background.jpg</file>
+        <file>img/img/pig1</file>
+        <file>img/img/pig2.png</file>
+        <file>img/img/pig_icon.png</file>
+        <file>img/img/win.png</file>
+        <file>style/style.qss</file>
+        <file>style/welcomeStyle.qss</file>
+    </qresource>
+</RCC>
