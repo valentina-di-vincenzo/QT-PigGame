@@ -1,5 +1,5 @@
 # QT-PigGame
-Dice game written in QT. This is my first QT Desktop App, to grasp the basic concepts and get comfortable with the software.
+Dice game written in QT using QT Creator. This is my first QT MacOS Desktop App, to grasp the basic concepts and get comfortable with the software.
 
 ## UI 
 
@@ -14,3 +14,6 @@ from [Wikipedia](https://en.wikipedia.org/wiki/Pig_(dice_game)):
 > * If the player rolls any other number, it is added to their turn total and the player's turn continues.
 > * If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 > The first player to score 100 or more points wins.
+
+## Usage
+On MacOS: download the project and open the .app file
