@@ -1,5 +1,5 @@
-# QT-PigGame
-Dice game written in QT using QT Creator. This is my first QT MacOS Desktop App, to grasp the basic concepts and get comfortable with the software.
+# Qt-PigGame
+Dice game written in Qt using Qt Creator. This is my first Qt MacOS Desktop App, to grasp the basic concepts and get comfortable with the software.
 
 ## UI 
 
